@@ -186,8 +186,7 @@ start the engine
 
 Apex is open source.
 
-License: MIT (recommended)
-
+License: MIT 
 You are free to:
 
 - Use
