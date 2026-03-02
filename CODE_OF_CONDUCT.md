@@ -2,7 +2,7 @@
 
 ## Our Commitment
 
-We are committed to making participation in the Apex project a harassment-free experience for everyone, regardless of:
+We are committed to making participation in the Synen project a harassment-free experience for everyone, regardless of:
 
 - Age
 - Gender
@@ -69,4 +69,4 @@ This Code of Conduct applies to:
 
 ---
 
-Apex is built on professionalism and respect.
+Synen is built on professionalism and respect.

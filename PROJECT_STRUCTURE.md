@@ -1,6 +1,6 @@
-# Apex Language — Project Structure
+# Synen Language — Project Structure
 
-This document defines the initial repository layout for Apex v1.
+This document defines the initial repository layout for Synen v1.
 
 The structure is designed to support:
 
@@ -14,7 +14,7 @@ The structure is designed to support:
 ## Root Directory
 
 ```
-apex-language/
+Synen-language/
 │
 ├── README.md
 ├── LICENSE
@@ -114,9 +114,9 @@ Contains:
 
 ```
 stdlib/
-├── io.apex
-├── math.apex
-└── web.apex
+├── io.Synen
+├── math.Synen
+└── web.Synen
 ```
 
 Planned modules:
@@ -133,9 +133,9 @@ Planned modules:
 
 ```
 examples/
-├── hello_world.apex
-├── tensor_example.apex
-└── web_server.apex
+├── hello_world.Synen
+├── tensor_example.Synen
+└── web_server.Synen
 ```
 
 Purpose:
@@ -150,7 +150,7 @@ Purpose:
 
 ```
 docs/
-├── language_specification.apex
+├── language_specification.Synen
 └── architecture.md
 ```
 
@@ -168,7 +168,7 @@ These may be added in later versions:
 
 ```
 lsp/              # Language Server Protocol
-package_manager/  # Apex package manager
+package_manager/  # Synen package manager
 benchmarks/       # Performance benchmarks
 tests/            # Compiler and runtime tests
 ```
@@ -190,10 +190,10 @@ Each folder represents a logical compiler stage.
 
 ## Status
 
-This structure represents Apex v1 foundation phase.
+This structure represents Synen v1 foundation phase.
 
 Additional components will be added as the compiler matures.
 
 ---
 
-Apex is open source and evolving.
+Synen is open source and evolving.

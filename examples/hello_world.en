@@ -1,11 +1,11 @@
 ############################################
-# Apex Example: Hello World 
+# Synen Example: Hello World
 ############################################
 
 import IO.Console
 
 to start the program begin
-    let message is "Hello from Apex Compiler v1"
+    let message is "Hello from Synen Compiler v1"
     Console.print message
 end
 

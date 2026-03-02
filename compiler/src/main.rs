@@ -1,12 +1,12 @@
-// Apex Compiler v1
-// Entry point for the Apex language compiler
+// Synen Compiler v1
+// Entry point for the Synen language compiler
 
 fn main() {
-    println!("Apex Compiler v1");
+    println!("Synen Compiler v1");
 
     // Future compiler pipeline:
     //
-    // 1. Read .apex source file
+    // 1. Read .en source file
     // 2. Run lexer
     // 3. Run parser
     // 4. Generate AST
@@ -14,6 +14,4 @@ fn main() {
     // 6. Run AI lowering engine (process think blocks)
     // 7. Generate LLVM IR
     // 8. Compile to native binary or WebAssembly
-    //
-    // This is the initial scaffold version.
 }

@@ -1,0 +1,18 @@
+module IO.Console
+
+############################################
+# IO.Console Standard Library Module
+# Provides basic console input/output.
+############################################
+
+class Console begin
+
+    to print with value begin
+        # Lowered by compiler to native stdout call
+    end
+
+    to read begin
+        # Returns Text
+    end
+
+end

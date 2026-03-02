@@ -1,14 +1,14 @@
-# Contributing to Apex Language
+# Contributing to Synen Language
 
-Thank you for your interest in contributing to Apex.
+Thank you for your interest in contributing to Synen.
 
-Apex is an open-source English-extension programming language designed to compile to LLVM and WebAssembly with native AI integration. Contributions of all sizes are welcome.
+Synen is an open-source English-extension programming language designed to compile to LLVM and WebAssembly with native AI integration. Contributions of all sizes are welcome.
 
 ---
 
 ## Philosophy
 
-Apex prioritizes:
+Synen prioritizes:
 
 - Clarity over cleverness
 - Structured English syntax
@@ -91,7 +91,7 @@ Large architectural changes should be discussed in an issue before implementatio
 - Avoid unnecessary unsafe blocks
 - Prefer clarity over micro-optimization
 
-### Apex Examples
+### Synen Examples
 - Follow English-structured syntax
 - Use clear naming
 - Avoid abbreviations
@@ -102,7 +102,7 @@ Large architectural changes should be discussed in an issue before implementatio
 
 When reporting bugs, include:
 
-- Apex source snippet
+- Synen source snippet
 - Expected behavior
 - Actual behavior
 - Environment details
@@ -125,4 +125,4 @@ All contributors must follow the Code of Conduct.
 
 ---
 
-Thank you for helping build Apex.
+Thank you for helping build Synen.

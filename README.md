@@ -1,6 +1,6 @@
-# Apex Language
+# Synen Language
 
-Apex is an open-source, English-extension, object-oriented programming language that compiles to LLVM and WebAssembly.
+Synen is an open-source, English-extension, object-oriented programming language that compiles to LLVM and WebAssembly.
 
 It is designed to bridge human thought and machine execution by combining:
 
@@ -14,17 +14,17 @@ It is designed to bridge human thought and machine execution by combining:
 
 ## Vision
 
-Apex aims to make software development more expressive without sacrificing performance.
+Synen aims to make software development more expressive without sacrificing performance.
 
-Instead of forcing developers to think in symbols, Apex allows structured English constructs like:
+Instead of forcing developers to think in symbols, Synen allows structured English constructs like:
 
-```apex
+```Synen
 to start the engine begin
     let matrix is a Tensor of [10,10]
 end
 ```
 
-Apex compiles to:
+Synen compiles to:
 
 - Native machine code (via LLVM)
 - WebAssembly (for browser and edge deployment)
@@ -37,7 +37,7 @@ Apex compiles to:
 
 Readable, structured, and compiler-friendly:
 
-```apex
+```Synen
 to calculate sum with a and b begin
     return a plus b
 end
@@ -47,9 +47,9 @@ end
 
 ### 2. AI-Powered `think` Blocks
 
-Apex integrates with Large Language Models during compilation.
+Synen integrates with Large Language Models during compilation.
 
-```apex
+```Synen
 think "Detect objects in the image and return a JSON list"
 ```
 
@@ -69,7 +69,7 @@ This allows human-intent-driven code generation while preserving performance.
 
 Built-in support for data science and machine learning:
 
-```apex
+```Synen
 let matrix is a Tensor of [10, 10]
 ```
 
@@ -79,7 +79,7 @@ No external framework required.
 
 ### 4. Declarative English UI
 
-```apex
+```Synen
 create a Button with text "Click Me" and color "Blue"
 ```
 
@@ -109,7 +109,7 @@ All types inherit from `Everything`:
 ## Architecture Overview
 
 ```
-.apex Source
+.Synen Source
       ↓
 Lexer (Rust)
       ↓
@@ -131,7 +131,7 @@ Native Binary / WebAssembly
 ## Project Structure (Planned)
 
 ```
-apex-language/
+Synen-language/
 │
 ├── compiler/
 │   ├── lexer/
@@ -162,7 +162,7 @@ The compiler will be written primarily in Rust and will require LLVM installed l
 
 ## Example
 
-```apex
+```Synen
 import Web.Server
 import AI.Vision
 
@@ -184,7 +184,7 @@ start the engine
 
 ## Open Source
 
-Apex is open source.
+Synen is open source.
 
 License: MIT 
 You are free to:
@@ -218,11 +218,11 @@ Contributions are welcome.
 
 ---
 
-## Why Apex?
+## Why Synen?
 
 As AI reduces the friction of writing code, programming languages must evolve.
 
-Apex is built for:
+Synen is built for:
 
 - AI-native development
 - High-performance systems
@@ -249,13 +249,13 @@ Early development — specification phase.
 
 ## Author
 
-Created as part of the Apex universal language initiative.
+Created as part of the Synen universal language initiative.
 
 ---
 
 ## Future
 
-Apex is designed to become:
+Synen is designed to become:
 
 - A systems language
 - A web language
